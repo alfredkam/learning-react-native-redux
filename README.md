@@ -1,7 +1,7 @@
 # Notes
 This is a sample skeleton of a react native app built with react-redux in mind.  It is important to note this app uses expo framework for development and is project structure is opinionated for a large app.  With expo it removed many complexity of linking and setting up a react native app and provides a hot reload environment (think webpack).
 
-This app had not been ejected from expo!
+This app uses expo 25 and had not been ejected / detached from expo!
 
 ### Start up
 * Download expo app from App Store
